@@ -7,13 +7,13 @@ The workbook contains two interactive dashboards and one insights page. Together
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 To build a comprehensive Excel dashboard system that monitors campaign engagement and performance across multiple channels, locations and audience groups. The goal is to give stakeholders a clear understanding of what is working, where value is coming from and which actions should be prioritized.
 
 ---
 
-## 📁 Dataset Summary
+##  Dataset Summary
 
 The dataset includes:
 
@@ -30,7 +30,7 @@ This dataset allows for channel analysis, ROI comparison, audience targeting ins
 
 ---
 
-## 🛠 Tools and Techniques
+##  Tools and Techniques
 
 - Microsoft Excel for dashboard development  
 - Pivot tables  
@@ -43,7 +43,7 @@ This dataset allows for channel analysis, ROI comparison, audience targeting ins
 
 ---
 
-# 📊 Dashboard One  
+#  Dashboard One  
 ## Campaign Engagement and Efficiency Dashboard
 
 <img src="dashboard_one_placeholder.png" width="900"/>
@@ -103,7 +103,7 @@ Alongside segments for 15 day, 30 day, 45 day and 60 day campaign durations.
 
 ---
 
-# 📊 Dashboard Two  
+#  Dashboard Two  
 ## Marketing Performance Dashboard
 
 <img src="dashboard_two_placeholder.png" width="900"/>
@@ -171,7 +171,7 @@ All Ages, Men 18 to 24, Men 25 to 34, Women 25 to 34, Women 35 to 44
 
 ---
 
-# 📑 Insights, Recommendations and Priorities
+#  Insights, Recommendations and Priorities
 
 <img src="insights_page_placeholder.png" width="900"/>
 
@@ -179,7 +179,7 @@ This page summarizes findings from the two dashboards in a structured easy to un
 
 ---
 
-## 🔍 Insights
+##  Insights
 
 - Impressions and clicks both increased by approximately nine percent versus previous month  
 - Conversion rate is strong at eight point zero one percent  
@@ -193,7 +193,7 @@ This page summarizes findings from the two dashboards in a structured easy to un
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Increase budget allocation to Miami and Los Angeles  
 - Strengthen email marketing through improved automation and content personalization  
@@ -203,7 +203,7 @@ This page summarizes findings from the two dashboards in a structured easy to un
 
 ---
 
-## 🎯 Priorities
+##  Priorities
 
 - Shift part of campaign budget to top performing locations and channels  
 - Launch targeted email and influencer campaigns for men eighteen to twenty four  
@@ -213,23 +213,9 @@ This page summarizes findings from the two dashboards in a structured easy to un
 
 ---
 
-## 📂 Folder Structure
 
-```bash
-Marketing Analytics Dashboard/
-│
-├── Dashboard/
-│   └── Marketing_Engagement_Performance.xlsx
-│
-├── Images/
-│   ├── dashboard_one.png
-│   ├── dashboard_two.png
-│   └── insights_page.png
-│
-└── README.md
-```
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open the Excel file in the Dashboard folder  
 2. Navigate between the dashboard pages using the icons in the left sidebar  
@@ -239,7 +225,7 @@ Marketing Analytics Dashboard/
 
 ---
 
-## 👨🏾‍💻 Author
+##  Author
 
 **Brume Pascal Opitien**  
 Data Analyst  
@@ -250,7 +236,7 @@ Data Analyst
 
 ---
 
-## 🙌 Credit
+##  Credit
 
 Special appreciation to **Freedom Oboh** for design inspiration and learning support.  
 You can learn from his tutorials here:  
@@ -258,7 +244,7 @@ You can learn from his tutorials here:
 
 ---
 
-## 📎 Additional Notes
+##  Additional Notes
 
 - Data used in this project is created for demonstration purposes  
 - The dashboard design is built entirely in Excel  
