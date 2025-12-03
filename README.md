@@ -46,7 +46,7 @@ This dataset allows for channel analysis, ROI comparison, audience targeting ins
 #  Dashboard One  
 ## Campaign Engagement and Efficiency Dashboard
 
-<img src="dashboard_one_placeholder.png" width="900"/>
+<img src="DASHBOARD.png" width="900"/>
 
 This dashboard shows overall engagement and efficiency metrics for campaigns.
 
@@ -106,7 +106,7 @@ Alongside segments for 15 day, 30 day, 45 day and 60 day campaign durations.
 #  Dashboard Two  
 ## Marketing Performance Dashboard
 
-<img src="dashboard_two_placeholder.png" width="900"/>
+<img src="DASHBOARD 2.png" width="900"/>
 
 This dashboard provides a detailed performance evaluation for impressions, clicks, conversions and ROI.
 
@@ -173,7 +173,7 @@ All Ages, Men 18 to 24, Men 25 to 34, Women 25 to 34, Women 35 to 44
 
 #  Insights, Recommendations and Priorities
 
-<img src="insights_page_placeholder.png" width="900"/>
+<img src="INSIGHTS AND RECOMMENDTIONS.png" width="900"/>
 
 This page summarizes findings from the two dashboards in a structured easy to understand format.
 
